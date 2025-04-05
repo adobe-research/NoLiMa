@@ -68,7 +68,7 @@ The needle set and haystack data will be downloaded to the `data` directory from
 
 2. **Create or modify a local model configuration**  
    - Use `llama_3.3_70b.json` in the `evaluation/model_configs` folder as a reference.
-   Note that this configuaration file is used in the evaluation script (not for the vllm serve).
+   Note that this configuration file is used in the evaluation script (not for the vllm serve).
 
 ### 3B. API-Based Models
 
